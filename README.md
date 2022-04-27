@@ -79,7 +79,7 @@ systemctl stop docker-compose-redash
 systemctl start docker-compose-redash
 ```
 
-5、some usefule command
+5、some useful command
 ```
 docker container ls
 docker container ls -a
